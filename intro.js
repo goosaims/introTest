@@ -17,6 +17,6 @@ const toppings = 3;
 let friends = true;
 let teachers = null;
 
-alert("404 ERROR!!!      please refresh page")
+alert("404 ERROR!!!      please refresh page to continue")
 console.log(alert)
 //school comment test hehe
